@@ -1,0 +1,5 @@
+to initialize an environment: 
+conda activate <name of the environment>
+
+Launching Jupyter: it will open, by default, in localhost:8888/lab
+jupyter-lab
