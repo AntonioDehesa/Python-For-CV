@@ -1,5 +1,10 @@
 to initialize an environment: 
 conda activate <name of the environment>
+example: conda activate python_cvcourse
+
+To check all available environments: 
+conda info --envs
+
 
 Launching Jupyter: it will open, by default, in localhost:8888/lab
 jupyter-lab
